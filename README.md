@@ -53,6 +53,11 @@ The application is built using Swift and utilizes several native Apple framework
 4.  **Haptic Feedback**: If the sound is urgent, your device will vibrate with a pattern specific to that alert.
 
 ---
+
+## Licensing
+This software is proprietary and not open source. Please see the [LICENSE](LICENSE) file for terms of use.
+
+---
 Copyright (c) 2026 [Apple](https://github.com/apple).
 
 This software is not licensed for distribution, modification, or commercial use without explicit written permission from the author.
