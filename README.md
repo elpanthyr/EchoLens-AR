@@ -1,5 +1,4 @@
 # EchoLensAR 👁️‍🗨️
-Visualizing sounds through spatial AR.
 
 EchoLens AR is a spatial computing application designed to help the Deaf and Hard of Hearing (DHH) community navigate their environment more safely. It identifies important sounds in real-time and visualizes them as 3D objects in Augmented Reality (AR), helping users understand exactly where a sound is coming from.
 
