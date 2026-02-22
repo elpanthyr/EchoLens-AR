@@ -11,9 +11,11 @@ For millions of people with hearing loss, environmental awareness is a constant 
 EchoLens AR acts as a visual sense. It listens for critical sounds—like sirens, fire alarms, or someone calling out—and places a visual marker at the sound's source using AR. This allows users to keep their eyes on their surroundings without relying on others' help.
 
 ---
-| Onboarding | Live App | Settings |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/01fc225f-8769-406c-bc9c-f97c2ba104c4" width="100%"> | <img src="https://github.com/user-attachments/assets/300dc9bf-c0d8-40e8-bdd0-bf88d24ab130" width="100%"> | <img src="https://github.com/user-attachments/assets/d9119869-4faf-44d6-aed6-b7ec131e03a9" width="100%"> |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01fc225f-8769-406c-bc9c-f97c2ba104c4" width="260" />
+  <img src="https://github.com/user-attachments/assets/300dc9bf-c0d8-40e8-bdd0-bf88d24ab130" width="260" />
+  <img src="https://github.com/user-attachments/assets/d9119869-4faf-44d6-aed6-b7ec131e03a9" width="260" />
+</p>
 ---
 
 ## ✨ Key Features
