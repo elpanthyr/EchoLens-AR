@@ -56,7 +56,7 @@ The application is built using Swift and utilizes several native Apple framework
 ---
 
 ## Licensing
-This software is proprietary and not open source. Please see the [LICENSE](LICENSE) file for terms of use.
+Please see the [LICENSE](LICENSE) file for terms of use.
 
 ---
 Copyright (c) 2026 [Apple](https://github.com/apple).
