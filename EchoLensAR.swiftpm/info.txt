@@ -1,0 +1,5 @@
+import Foundation
+
+// We cannot easily compile AppleProductTypes locally without SPM tools context. 
+// So, maybe the syntax is .backgroundModes([.audio])? Wait, a known usage in Swift Playgrounds is .backgroundAudio? Or .audioBackground?
+// Let's just create an Info.plist and use additionalInfoPlistContentFilePath instead to be safe.
