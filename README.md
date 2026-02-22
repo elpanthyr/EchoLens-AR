@@ -28,7 +28,7 @@ EchoLens AR acts as a visual sense. It listens for critical sounds—like sirens
 
 The application is built using Swift and utilizes several native Apple frameworks to create a seamless experience:
 
-* **SoundAnalysis & CoreML**: Analyzes live audio to identify over 300 different sound types with high accuracy and low latency.
+* **SoundAnalysis & CoreML**: Analyzes live audio to identify over 80 different sound types with high accuracy and low latency.
 * **ARKit & RealityKit**: Tracks the user's physical space and anchors visual alerts to specific coordinates in the room.
 * **AVFoundation**: Manages the microphone input buffer to allow for continuous listening without interrupting other media.
 * **Core Haptics**: Converts sounds into physical vibrations, using different patterns to represent different types of alerts.
@@ -50,4 +50,4 @@ The application is built using Swift and utilizes several native Apple framework
 4.  **Haptic Feedback**: If the sound is urgent, your device will vibrate with a pattern specific to that alert.
 
 ---
-All rights reserved by @apple
+All rights reserved by @Apple
