@@ -15,7 +15,11 @@ EchoLens AR acts as a visual sense. It listens for critical sounds—like sirens
 <img width="501" height="754" alt="onboarding page" src="https://github.com/user-attachments/assets/01fc225f-8769-406c-bc9c-f97c2ba104c4" />
 <img width="501" height="753" alt="app" src="https://github.com/user-attachments/assets/300dc9bf-c0d8-40e8-bdd0-bf88d24ab130" />
 <img width="502" height="757" alt="settings" src="https://github.com/user-attachments/assets/d9119869-4faf-44d6-aed6-b7ec131e03a9" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01fc225f-8769-406c-bc9c-f97c2ba104c4" width="32%" />
+  <img src="https://github.com/user-attachments/assets/300dc9bf-c0d8-40e8-bdd0-bf88d24ab130" width="32%" />
+  <img src="https://github.com/user-attachments/assets/d9119869-4faf-44d6-aed6-b7ec131e03a9" width="32%" />
+</p>
 ## Key Features
 * **Spatial Visualizations**: Detected sounds appear as floating 3D markers in the room.
 * **Directional Indicators**: If a sound occurs behind the user, glowing indicators on the edge of the screen guide them toward the source.
