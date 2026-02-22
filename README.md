@@ -1,14 +1,14 @@
-# EchoLens-AR
+# EchoLens-AR 👁️‍🗨️
 Visualizing sounds through spatial AR.
 
 EchoLens AR is a spatial computing application designed to help the Deaf and Hard of Hearing (DHH) community navigate their environment more safely. It identifies important sounds in real-time and visualizes them as 3D objects in Augmented Reality (AR), helping users understand exactly where a sound is coming from.
 
 ---
 
-## The Problem
+## The Problem ⁉️
 For millions of people with hearing loss, environmental awareness is a constant challenge. Standard solutions often rely on simple phone vibrations or flashing lights. These methods can be helpful, but they don't provide context or direction. A user might know that an alarm is going off, but not where the danger is located.
 
-## The Solution
+## The Solution ✅
 EchoLens AR acts as a visual sense. It listens for critical sounds—like sirens, fire alarms, or someone calling out—and places a visual marker at the sound's source using AR. This allows users to keep their eyes on their surroundings without relying on others' help.
 
 ---
@@ -19,7 +19,7 @@ EchoLens AR acts as a visual sense. It listens for critical sounds—like sirens
 </p>
 ---
 
-## Key Features
+## ✨ Key Features
 * **Spatial Visualizations**: Detected sounds appear as floating 3D markers in the room.
 * **Directional Indicators**: If a sound occurs behind the user, glowing indicators on the edge of the screen guide them toward the source.
 * **Background Detection**: The app continues to monitor sounds while minimized or while the device is in a pocket, sending haptic alerts and lock screen notifications for critical events.
@@ -27,7 +27,7 @@ EchoLens AR acts as a visual sense. It listens for critical sounds—like sirens
 
 ---
 
-## Technical Overview
+## 🛠️ Technical Overview
 
 The application is built using Swift and utilizes several native Apple frameworks to create a seamless experience:
 
@@ -39,14 +39,14 @@ The application is built using Swift and utilizes several native Apple framework
 
 ---
 
-## Target Audience
+## 👥 Target Audience
 * **DHH Community**: Individuals seeking greater independence and safety in their daily lives.
 * **Situational Awareness**: People in loud environments (like construction sites) or those using noise-canceling headphones.
 * **Sensory Support**: Individuals who find visual cues more manageable than loud, unpredictable audio stimuli.
 
 ---
 
-## How to Use
+## 🤔 How to Use
 1.  **Launch the App**: Open EchoLens AR and grant the necessary microphone and camera permissions.
 2.  **Calibration**: Allow the app a few seconds to map the room.
 3.  **Automatic Monitoring**: The app will begin listening. When a recognized sound is detected, a 3D icon will appear in the AR view at the source of the sound.
