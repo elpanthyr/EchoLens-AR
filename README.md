@@ -59,6 +59,6 @@ The application is built using Swift and utilizes several native Apple framework
 Please see the [LICENSE](LICENSE) file for terms of use.
 
 ---
-Copyright (c) 2026 [Apple](https://github.com/apple).
+Copyright (c) 2026 [deena](https://github.com/elpanthyr).
 
-This software is not licensed for distribution, modification, or commercial use without explicit written permission from the author.
+
