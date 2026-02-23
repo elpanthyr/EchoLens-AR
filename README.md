@@ -12,24 +12,23 @@ EchoLens AR acts as a visual sense. It listens for critical sounds—like sirens
 
 ---
 
-<div align="center">
-  
-  <span style="display: inline-block; margin: 10px;">
-    <h3>Onboarding</h3>
-    <img src="https://github.com/user-attachments/assets/01fc225f-8769-406c-bc9c-f97c2ba104c4" width="260" />
-  </span>
-  
-  <span style="display: inline-block; margin: 10px;">
-    <h3>Live App</h3>
-    <img src="https://github.com/user-attachments/assets/300dc9bf-c0d8-40e8-bdd0-bf88d24ab130" width="260" />
-  </span>
-  
-  <span style="display: inline-block; margin: 10px;">
-    <h3>Settings</h3>
-    <img src="https://github.com/user-attachments/assets/d9119869-4faf-44d6-aed6-b7ec131e03a9" width="260" />
-  </span>
+<table align="left">
+  <tr><th align="center">Onboarding</th></tr>
+  <tr><td><img src="https://github.com/user-attachments/assets/01fc225f-8769-406c-bc9c-f97c2ba104c4" width="250" /></td></tr>
+</table>
 
-</div>
+<table align="left">
+  <tr><th align="center">Live App</th></tr>
+  <tr><td><img src="https://github.com/user-attachments/assets/300dc9bf-c0d8-40e8-bdd0-bf88d24ab130" width="250" /></td></tr>
+</table>
+
+<table align="left">
+  <tr><th align="center">Settings</th></tr>
+  <tr><td><img src="https://github.com/user-attachments/assets/d9119869-4faf-44d6-aed6-b7ec131e03a9" width="250" /></td></tr>
+</table>
+
+<br clear="left"/>
+
 ---
 
 ## ✨ Key Features
