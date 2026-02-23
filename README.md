@@ -53,7 +53,7 @@ The application is built using Swift and utilizes several native Apple framework
 
 ## 👥 Target Audience
 * **DHH Community**: Individuals seeking greater independence and safety in their daily lives.
-* **Situational Awareness**: People in loud environments (like construction sites) or those using noise-canceling headphones.
+* **Situational Awareness**: People in loud environments like those using noise-canceling headphones.
 * **Sensory Support**: Individuals who find visual cues more manageable than loud, unpredictable audio stimuli.
 
 ---
