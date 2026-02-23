@@ -59,7 +59,7 @@ The application is built using Swift and utilizes several native Apple framework
 Please see the [LICENSE](LICENSE) file for terms of use.
 
 ---
-Copyright (c) 2026 [deena](https://github.com/elpanthyr). All rights reserved.
+Copyright (©) 2026 [deena](https://github.com/elpanthyr). All rights reserved.
 
 
 
