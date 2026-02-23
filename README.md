@@ -47,7 +47,7 @@ The application is built using Swift and utilizes several native Apple framework
 
 ---
 
-## 🤔 How to Use
+## 📜 How to Use
 1.  **Launch the App**: Open EchoLens AR and grant the necessary microphone and camera permissions.
 2.  **Calibration**: Allow the app a few seconds to map the room.
 3.  **Automatic Monitoring**: The app will begin listening. When a recognized sound is detected, a 3D icon will appear in the AR view at the source of the sound.
