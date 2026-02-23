@@ -86,10 +86,7 @@ struct ARSoundView: View {
         .onChange(of: soundManager.detectedSounds) { _, newSounds in
             if let latest = newSounds.first {
                 anchorEngine.clearAllEntities()
-                // Provide a nil transform by default when not in RealityView
-                // The actual RealityView update block will handle live anchoring if needed,
-                // or we rely on the device's origin. For VisionOS/iOS18, we can pass identity
-                // here and fetch the actual transform in the update closure if needed.
+
                 anchorEngine.addSoundEntity(for: latest, cameraTransform: nil)
 
                 let azimuth = abs(latest.estimatedAzimuth ?? Double.pi)
@@ -132,10 +129,7 @@ struct ARSoundView: View {
         #else
         RealityView { content in
         } update: { content in
-            // Try to extract camera position if available (e.g., from an ARView if we had one)
-            // In a pure RealityView, to get the device transform we often use an AnchorEntity(.head)
-            // or query the ARKit session. For this implementation, we will pass the default matrix 
-            // from the engine which handles the world transformation safely.
+          
             for entity in anchorEngine.pendingEntities {
                 content.add(entity.anchor)
             }
